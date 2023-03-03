@@ -1,5 +1,5 @@
 # UAM_SR
-Systemy rekomendacyjne
+semestr 6 UAM - Systemy rekomendacyjne
 
 I had to create github repositories for this class:
 - class: https://github.com/C7A7A/recommender-systems-class
